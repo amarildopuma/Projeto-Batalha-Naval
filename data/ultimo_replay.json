@@ -1,0 +1,177 @@
+[
+  {
+    "jogador": "Amarildo",
+    "coordenada": "I1",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "J1",
+    "resultado": "afundou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "G2",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "G3",
+    "resultado": "afundou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "F5",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "F6",
+    "resultado": "afundou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "F7",
+    "resultado": "agua"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "G9",
+    "resultado": "agua"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "D8",
+    "resultado": "agua"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "B3",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "B4",
+    "resultado": "afundou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "B5",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "C5",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "D5",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "E5",
+    "resultado": "afundou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "E4",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "F4",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "G4",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "H4",
+    "resultado": "afundou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "I4",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "G3",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "H3",
+    "resultado": "afundou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "I3",
+    "resultado": "afundou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "H5",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Guido",
+    "coordenada": "C10",
+    "resultado": "agua"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "H6",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "I6",
+    "resultado": "afundou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "J5",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "J6",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "J7",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "J8",
+    "resultado": "afundou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "J9",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "G9",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "H9",
+    "resultado": "acertou"
+  },
+  {
+    "jogador": "Amarildo",
+    "coordenada": "I9",
+    "resultado": "afundou"
+  }
+]

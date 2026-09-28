@@ -1,0 +1,15 @@
+[
+  {
+    "jogador1": {
+      "nome": "Amarildo",
+      "jogadas": 18,
+      "acertos": 16
+    },
+    "jogador2": {
+      "nome": "Guido",
+      "jogadas": 17,
+      "acertos": 15
+    },
+    "vencedor": "Amarildo"
+  }
+]
