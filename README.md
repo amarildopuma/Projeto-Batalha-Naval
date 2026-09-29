@@ -66,3 +66,12 @@ BatalhaNaval/
 
 - Interface em modo texto (sem interface gráfica).
 - IA do computador é puramente aleatória (não há estratégia de perseguição após um acerto).
+
+## Observação
+
+Este README foi redigido com o apoio de uma IA (Claude), a partir das decisões de projeto
+e do código desenvolvido por mim ao longo da implementação.
+
+## Link para acessar a demonstração 
+
+https://youtu.be/RU_c4F-zwtU
